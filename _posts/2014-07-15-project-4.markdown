@@ -2,10 +2,13 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: amitech.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: October 2023
+client: Amitech Automobiles(Petrovoll GmbH Kenya)
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Developed www.amitechkenya.com using HTML5, CSS3, JavaScript, Jekyll, Bootstrap 5 and GitHub
+             pages leading to increased enquiries from customers and global suppliers by 30%.
+             Used Jekyll SEO and Google Search Console which lead to all webpages being ranked on google
+             search engine.
 ---

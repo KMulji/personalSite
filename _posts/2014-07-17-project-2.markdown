@@ -2,10 +2,15 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: House.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2023
+client: House Of Hope Kenya
+category: Web Development - Honors Project
+description: Rebuilt House of Hope website from 2016 in a cost effective and secure way. Costs only $15 per year
+             vs $75 per year in 2016. Built using HTML5, CSS3, Jekyll, Bootstrap 4. Hosted on
+             www.houseofhopekenya.org using GitHub Pages. Built a prototype app that used GitHub API which
+             allowed non technical users to modify the site hosted on GitHub pages. Prototype app built using
+             MongoDB, ExpressJS, ReactJS, NodeJS and PassportJS. Presented the project to the department and
+             was awarded High Honors for Computer Science major.
 ---
